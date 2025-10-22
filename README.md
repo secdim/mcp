@@ -2,7 +2,7 @@
 
 SecDim Model Context Protocol (MCP) server provides personalised AppSec, DevSecOps, AI security, Web3 security and secure coding learning pathways.
 
-https://support.secdim.com/support/integrations/_images/secdim-mcp-server.mp4
+<video src="https://support.secdim.com/support/integrations/_images/secdim-mcp-server.mp4"></video>
 
 ## Features
 
