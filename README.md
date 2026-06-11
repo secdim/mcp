@@ -23,11 +23,11 @@ Add SecDim as a remote MCP server in your client configuration:
   "mcpServers": {
     "secdim": {
       "type": "http",
-      "url": "https://mcp.secdim.dev/mcp"
+      "url": "https://mcp.secdim.com/mcp"
     }
   }
 }
-````
+```
 
 Once configured, ask your assistant things like:
 
@@ -41,6 +41,14 @@ Once configured, ask your assistant things like:
 
 For other clients, refer to the [official documentation](https://support.secdim.com/support/integrations/mcp-server).
 
+### Claude Code
+
+```
+claude mcp add --transport http secdim https://mcp.secdim.com/mcp
+claude mcp list
+# claude.ai SecDim: https://mcp.secdim.com/mcp - ✔ Connected
+```
+
 ### Claude Desktop
 
 Create or edit `~/.mcp/config.json`:
@@ -50,7 +58,7 @@ Create or edit `~/.mcp/config.json`:
   "mcpServers": {
     "secdim": {
       "type": "http",
-      "url": "https://mcp.secdim.dev/mcp"
+      "url": "https://mcp.secdim.com/mcp"
     }
   }
 }
@@ -67,7 +75,7 @@ In your Settings (JSON):
   "servers": {
     "secdim": {
       "type": "http",
-      "url": "https://mcp.secdim.dev/mcp"
+      "url": "https://mcp.secdim.com/mcp"
     }
   }
 }
@@ -84,7 +92,7 @@ Add to `~/.cursor/mcp.json` (or your Cursor MCP config file):
   "mcpServers": {
     "secdim": {
       "type": "http",
-      "url": "https://mcp.secdim.dev/mcp"
+      "url": "https://mcp.secdim.com/mcp"
     }
   }
 }

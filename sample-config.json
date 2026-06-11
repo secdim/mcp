@@ -2,7 +2,7 @@
   "mcpServers": {
     "secdim": {
       "type": "http",
-      "url": "https://mcp.secdim.dev/mcp"
+      "url": "https://mcp.secdim.com/mcp"
     }
   }
 }
