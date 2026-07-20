@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.secdim/mcp",
-  "description": "SecDim MCP server — Build your personalised developer security learning pathways using SecDim libraries of challenges and courses.",
+  "description": "Personalised developer security learning pathways from SecDim's challenges and courses.",
   "repository": {
     "url": "https://github.com/secdim/mcp",
     "source": "github"
