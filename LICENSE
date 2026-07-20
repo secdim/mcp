@@ -1,0 +1,22 @@
+Copyright (c) 2026 Security Dimension Pty Ltd (SecDim). All rights reserved.
+
+This repository and its contents (including documentation, configuration
+examples, and the SecDim Model Context Protocol server metadata) are
+proprietary and confidential to SecDim.
+
+No part of this repository may be copied, modified, distributed, sublicensed,
+or used to create derivative works, in whole or in part, without the prior
+written permission of SecDim.
+
+Permission is granted to view this repository and to use the configuration
+examples contained within it solely for the purpose of connecting to the
+SecDim MCP Server in accordance with the SecDim Terms of Service.
+
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL SECURITY DIMENSION PTY LTD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing enquiries, contact SecDim at https://secdim.com.
