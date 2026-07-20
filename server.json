@@ -6,7 +6,14 @@
     "url": "https://github.com/secdim/mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icons": [
+    {
+      "src": "https://secdim.com/assets/images/logo-square.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
