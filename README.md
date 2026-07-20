@@ -65,6 +65,13 @@ claude mcp list
 
 This registers the SecDim MCP server for all future Claude Code sessions.
 
+Alternatively, once the SecDim plugin is available in Claude Code's community marketplace, install it with:
+
+```
+/plugin marketplace add anthropics/claude-plugins-community
+/plugin install secdim@claude-community
+```
+
 **Claude Desktop**
 
 1. Open Claude Desktop.

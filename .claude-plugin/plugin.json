@@ -1,0 +1,12 @@
+{
+  "name": "secdim",
+  "description": "Personalised developer security learning pathways from SecDim's challenges and courses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SecDim"
+  },
+  "homepage": "https://support.secdim.com/support/integrations/mcp-server",
+  "repository": "https://github.com/secdim/mcp",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["security", "secure-coding", "owasp", "training"]
+}
